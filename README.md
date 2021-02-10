@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Dr Sadie J. Ryan (she/her), an Associate Professor of Medical Geography at the University of Florida. 
+
 
 <!--
 **sjryan3/sjryan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
